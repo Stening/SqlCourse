@@ -58,4 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateOrder.cs" />
+    <Compile Include="FindCountry.cs" />
+    <Compile Include="ListAllRoute.cs" />
+    <Compile Include="RouteSeats.cs" />
+  </ItemGroup>
 </Project>
